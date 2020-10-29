@@ -1,0 +1,3 @@
+include ':dynamic_feature'
+include ':app'
+rootProject.name = "InstantAppSupport"
